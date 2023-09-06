@@ -1,0 +1,21 @@
+:root {
+  --primary-color: #6c63ff;
+  --secondary-color: #f5f2fe;
+  --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+font-family: "Cormorant Upright", serif;
+font-family: "Playfair Display", serif;
+font-family: "Poppins", sans-serif;
+
+.container {
+  margin: 60px auto;
+}
+.homepage {
+  background: #fbfafd;
+}
+.about-me {
+  background: #f9f8fd;
+}
