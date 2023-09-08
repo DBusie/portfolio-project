@@ -76,16 +76,13 @@ h2 {
   h1 {
     font-size: 38px;
     text-align: center;
-    color: red;
   }
   h2 {
     font-size: 32px;
     line-height: 2;
-    color: green;
   }
   .project-description {
     padding: 0;
     text-align: center;
-    color: yellow;
   }
 }
